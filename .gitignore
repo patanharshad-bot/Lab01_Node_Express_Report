@@ -1,0 +1,6 @@
+# Freebuff workspace metadata (do not publish)
+.freebuff/
+
+# OS files
+.DS_Store
+Thumbs.db
